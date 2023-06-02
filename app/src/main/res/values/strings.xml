@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Aquarium Restaurant</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="State">
+        <item>Muscat</item>
+        <item>Future: Another Country</item>
+
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>FISH FINGER </item>
+        <item>BEEF SKEWERS</item>
+        <item>CHICKEN SKEWERS</item>
+        <item>SEAFOOD SKEWERS</item>
+        <item>GRILLED JUMBO PRAWNS</item>
+        <item>GRILLED LOBSTER</item>
+        <item>VEGETABLE SUSHI</item>
+        <item>TUNA SUSHI</item>
+        <item>MANGO SUSHI</item>
+        <item>EGG SUSHI</item>
+        <item>PLAIN RICE </item>
+        <item>CANTONESE RICE </item>
+        <item>PILAF RICE </item>
+        <item>RUSSIAN SALAD </item>
+        <item>SHAMBA SALAD </item>
+        <item>SEAFOOD SALAD </item>
+        <item>AVOCADO SALAD </item>
+        <item>TUNA CARPACCIO SALAD </item>
+        <item>MINI PIZZAS </item>
+        <item>VEGETABLE SAMOSA</item>
+        <item>BEEF SAMOSA</item>
+        <item>KACHORI</item>
+        <item>PUMPKIN SOUP</item>
+        <item>POTATOES AND LEAKS SOUP</item>
+        <item>ZUCCHINI CREAM SOUP</item>
+        <item>VEGETABLE CREAM SOUP </item>
+        <item>PLAIN PASTA </item>
+        <item>PASTA AL POMODORO </item>
+        <item>TUNA SPAGHETTI VEGETABLE </item>
+        <item>PASTA BOLOGNESE </item>
+        <item>PASTA AL PESTO </item>
+        <item>SEAFOOD LINGUINE PASTA PRAWNS AND ZUCCHINI </item>
+        <item>FOCACCIA PIZZA</item>
+        <item>MARINARA PIZZA</item>
+        <item>MARGHERITA PIZZA</item>
+        <item>HAWAII PIZZA</item>
+        <item>TRE FORMAGGI PIZZA </item>
+        <item>NAPOLI PIZZA</item>
+        <item>SEAFOOD PIZZA </item>
+        <item>ICE CREAM  </item>
+        <item>FRUIT SALAD </item>
+        <item> FRUIT SALAD WITH ICE CREAM </item>
+        <item>CAKE </item>
+        <item> HOTDOG </item>
+        <item> CHICKEN SANDWICH </item>
+        <item> VEGETABLE SANDWICH </item>
+        <item> FRESH TUNA SANDWICH </item>
+        <item>CHEESE SANDWICH</item>
+        <item>CHICKEN ROLL CHAPATI</item>
+        <item>VEGETABLE ROLL CHAPATI</item>
+        <item>FISH ROLL CHAPATI</item>
+        <item>CHEESE BURGER </item>
+        <item>BEEF BURGER </item>
+        <item>CHICKEN BURGER</item>
+        <item>VEGETABLE BURGER</item>
+        <item>FISH BURGER </item>
+        <item> Hamburger </item>
+        <item>Sandwich</item>
+        <item>Chips </item>
+        <item>Spaghetti</item>
+        <item>Chicken Nuggets</item>
+        <item>Apple Juice </item>
+        <item>Chocolate Milk</item>
+        <item>Milkshake</item>
+        <item>Lemonade</item>
+        <item>Soft Drinks</item>
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "863097794051",
+    "firebase_url": "https://aquarium-restaurant-3be2c-default-rtdb.firebaseio.com",
+    "project_id": "aquarium-restaurant-3be2c",
+    "storage_bucket": "aquarium-restaurant-3be2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863097794051:android:59c6fa61b1e80aa4712836",
+        "android_client_info": {
+          "package_name": "com.example.aquariumrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863097794051-lrq4t1sh2md1v80uioku8srnbgdeat71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aquariumrestaurant",
+            "certificate_hash": "2fdee138c81d7d24302375844481760cc29033e0"
+          }
+        },
+        {
+          "client_id": "863097794051-b4vsmt6pdfuntptkbs71fngquqpugo95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFXrVwxeElC6DsJwkWZGttgkdg0lpeXp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863097794051-b4vsmt6pdfuntptkbs71fngquqpugo95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
